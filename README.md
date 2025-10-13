@@ -1,8 +1,11 @@
+# Hi, I'm Pelin 👋
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/<user>/<user>/main/assets/hero.svg" alt="Pelin — Frontend Engineer" width="820">
 </p>
 
-<h3 align="center">Building fast, elegant, and explainable frontends.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Engineer+%7C+Angular+%7C+RxJS;Performance+Optimization)](https://git.io/typing-svg)
+
 
 <p align="center">
   <a href="https://pelin.dev">Website</a> •
