@@ -35,7 +35,15 @@
 
 
 <!-- DYNAMIC-GREETING:START -->
-🌤️ Loading local time...
+☀️ **Good Morning** from Istanbul!  
+_Local time:_ **13 October 2025, 11:51 (TRT)**
+
+```diff
++ Building fast, reliable, and beautiful frontends ✨
+```
+
+![Pelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pelinoksuz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelinoksuz&layout=compact&theme=radical)
 <!-- DYNAMIC-GREETING:END -->
 
 ---
