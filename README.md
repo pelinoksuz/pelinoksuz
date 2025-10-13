@@ -19,9 +19,6 @@
 
 <!-- CTAS -->
 <p align="center">
-  <a href="https://pelin.dev" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Website-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
-  </a>
   <a href="https://www.linkedin.com/in/pelin-oksuz" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
