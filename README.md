@@ -33,8 +33,6 @@
 - 🧪 Performance: TBT↓ CLS↓, Lighthouse 95+
 - 🎓 Talks & papers on Angular performance & XAI
 
-### Contact
-[LinkedIn](https://www.linkedin.com/in/pelinoksuz) · [GitHub](https://github.com/pelinoksuz) · hello@pelin.dev
 
 <!-- DYNAMIC-GREETING:START -->
 🌤️ Loading local time...
