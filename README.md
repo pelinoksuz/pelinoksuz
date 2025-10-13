@@ -24,11 +24,6 @@ Senior Frontend Engineer · Angular · RxJS · TypeScript · Web Performance
 - **PUMA 2 Live Dashboard:** virtual scrolling + signal subscriptions; performant data-intensive UI  
 - **Scenius Frontend:** modular Angular architecture with shared components & design system
 
-## Fun Facts
-- 🎮 Plant vs. Zombies offline efsanesiyim.
-- ☕ Brain fuel: coffee + RxJS operators.
-- 🧶 Şu sıralar giyilebilir değil, **kullanılabilir** bir şey örüyorum.
-
 ## Find Me
 - LinkedIn: https://www.linkedin.com/in/pelinoksuz
 - GitHub: https://github.com/pelinoksuz
