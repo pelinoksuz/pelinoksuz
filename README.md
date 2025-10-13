@@ -1,8 +1,13 @@
 # Hi, I'm Pelin 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<user>/<user>/main/assets/hero.svg" alt="Pelin — Frontend Engineer" width="820">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Pelin+👋;Frontend+Engineer+%7C+Angular+%26+RxJS;Performance+Optimization+Enthusiast" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pelinoksuz/pelinoksuz/main/assets/hero.svg" alt="Pelin — Frontend Engineer" width="720">
+</p>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Engineer+%7C+Angular+%7C+RxJS;Performance+Optimization)](https://git.io/typing-svg)
 
