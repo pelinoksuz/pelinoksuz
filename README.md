@@ -20,8 +20,12 @@
   </a>
 </p>
 
-
 ---
+
+<!-- DYNAMIC-GREETING:START -->
+☀️ **Good Morning** from Istanbul!  
+_Local time:_ **13 October 2025, 11:56 (TRT)**
+<!-- DYNAMIC-GREETING:END -->
 
 ### About
 - Senior Frontend Engineer @ AVL • Angular · RxJS · Web Performance  
@@ -32,12 +36,6 @@
 - ⚡ Real-time dashboards (virtual scroll, signals)
 - 🧪 Performance: TBT↓ CLS↓, Lighthouse 95+
 - 🎓 Talks & papers on Angular performance & XAI
-
-
-<!-- DYNAMIC-GREETING:START -->
-☀️ **Good Morning** from Istanbul!  
-_Local time:_ **13 October 2025, 11:56 (TRT)**
-<!-- DYNAMIC-GREETING:END -->
 
 ---
 
