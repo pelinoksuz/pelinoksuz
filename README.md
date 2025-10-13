@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+Pelin+👋;Frontend+Engineer+%7C+Angular+%26+RxJS;Performance+Optimization+Lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+Pelin+👋;Frontend+Engineer+%7C+Angular+%26+RxJS;Performance+Optimization)](https://git.io/typing-svg)
 
 ### About Me
 - 👩‍💻 Senior Frontend Engineer at AVL  
@@ -7,6 +7,10 @@
 - 📚 Currently pursuing MSc in Computer Science at Özyeğin University  
 - 🧩 Passionate about Angular, RxJS, Web Performance, and Explainable AI  
 - 🧠 Also interested in UI/UX, design systems, and mentoring junior developers
+
+<a href="https://app.daily.dev/pelinoksuz">
+  <img src="https://api.daily.dev/devcards/pelinoksuz.png?r=xyz" width="300" alt="Pelin's Dev Card"/>
+</a>
 
 
 📫 Reach me on:
