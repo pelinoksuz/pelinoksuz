@@ -1,12 +1,13 @@
 # Hi, I'm Pelin 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Pelin+👋;Frontend+Engineer+%7C+Angular+%26+RxJS;Performance+Optimization+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Design+%2B+Code+%3D+❤️;Turning+ideas+into+beautiful+UIs;Building+fast+and+explainable+frontends." alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pelinoksuz/pelinoksuz/main/assets/hero.svg" alt="Pelin — Frontend Engineer" width="720">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header&text=Pelin%20Öksüz%20⚡%20Frontend%20Engineer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header"/>
 </p>
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Engineer+%7C+Angular+%7C+RxJS;Performance+Optimization)](https://git.io/typing-svg)
