@@ -8,9 +8,7 @@
 - 🧩 Passionate about Angular, RxJS, Web Performance, and Explainable AI  
 - 🧠 Also interested in UI/UX, design systems, and mentoring junior developers
 
-<a href="https://app.daily.dev/pelinoksuz">
-  <img src="https://api.daily.dev/devcards/pelinoksuz.png?r=xyz" width="300" alt="Pelin's Dev Card"/>
-</a>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 
 📫 Reach me on:
