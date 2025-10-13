@@ -39,8 +39,9 @@ READ_ME="README.md"
 START="<!-- DYNAMIC-GREETING:START -->"
 END="<!-- DYNAMIC-GREETING:END -->"
 
+# START ile END arasını repl ile değiştir ve END satırını GERİ YAZ
 awk -v start="$START" -v end="$END" -v repl="$DYNAMIC_BLOCK" '
   $0 ~ start { print; print repl; inblock=1; next }
-  $0 ~ end   { inblock=0 }
+  $0 ~ end   { print; inblock=0; next }
   !inblock
 ' "$READ_ME" > README.tmp && mv README.tmp "$READ_ME"
