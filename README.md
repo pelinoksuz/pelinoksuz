@@ -13,7 +13,7 @@
 <!-- VALUE PROP (typing) -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=900&center=true&vCenter=true&width=720&lines=I+build+fast%2C+elegant%2C+explainable+frontends.;Angular+%2B+RxJS+%7C+Performance+Optimization+%7C+a11y"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=900&center=true&vCenter=true&width=720&lines=Angular+%2B+RxJS+%7C+Performance+Optimization+%7C+a11y"
     alt="Typing line: I build fast, elegant, explainable frontends." />
 </p>
 
