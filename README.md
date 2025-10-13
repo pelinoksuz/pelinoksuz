@@ -1,35 +1,34 @@
+# Hi, I'm Pelin 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+Pelin+👋;Frontend+Engineer+%7C+Angular+%26+RxJS;Performance+Optimization)](https://git.io/typing-svg)
-
-### About Me
-- 👩‍💻 Senior Frontend Engineer at AVL  
-- 🚀 Focused on performance optimization, scalable architectures, and real-time data visualization  
-- 📚 Currently pursuing MSc in Computer Science at Özyeğin University  
-- 🧩 Passionate about Angular, RxJS, Web Performance, and Explainable AI  
-- 🧠 Also interested in UI/UX, design systems, and mentoring junior developers
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Engineer+%7C+Angular+%26+RxJS;Performance+Optimization)](https://git.io/typing-svg)
 
 
-📫 Reach me on:
-- [LinkedIn](https://www.linkedin.com/in/pelin-oksuz/)
-- [GitHub](https://github.com/pelinoksuz)
-- ✉️ pelin.oksuz.contact@gmail.com
+Senior Frontend Engineer · Angular · RxJS · TypeScript · Web Performance
 
-### 🎧 Listening to
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=pelinoksuz&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app)
+<!-- DYNAMIC-GREETING:START -->
+🌤️ Loading local time...
+<!-- DYNAMIC-GREETING:END -->
 
-<!--
-**pelinoksuz/pelinoksuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+- 🚀 Frontend @ AVL — real-time dashboards, performance optimization, and clean architecture
+- 🎓 MSc in Computer Science (Özyeğin University)
+- 🧠 Interests: Angular, RxJS, Web Perf, Explainable AI, UI/UX
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Frontend:** Angular, TypeScript, RxJS, HTML, SCSS, Angular Material, DevExtreme  
+- **Backend:** .NET Core (C#), Python Flask  
+- **DevOps & Tools:** Git, Azure DevOps, Docker, SonarQube, Lighthouse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **AYZ-Yorumlayıcı (XAI):** Grad-CAM + Faster R-CNN; autonomous driving explainability  
+- **PUMA 2 Live Dashboard:** virtual scrolling + signal subscriptions; performant data-intensive UI  
+- **Scenius Frontend:** modular Angular architecture with shared components & design system
+
+## Fun Facts
+- 🎮 Plant vs. Zombies offline efsanesiyim.
+- ☕ Brain fuel: coffee + RxJS operators.
+- 🧶 Şu sıralar giyilebilir değil, **kullanılabilir** bir şey örüyorum.
+
+## Find Me
+- LinkedIn: https://www.linkedin.com/in/pelinoksuz
+- GitHub: https://github.com/pelinoksuz
