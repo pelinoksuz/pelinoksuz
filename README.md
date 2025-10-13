@@ -1,22 +1,32 @@
+<!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header&text=Pelin%20Öksüz%20⚡%20Frontend%20Engineer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header"/>
+  <!-- Light/Dark hero (capsule-render yerine kendi SVG'ni koyman idealdir) -->
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header&text=Pelin%20%C3%96ks%C3%BCz%20%E2%9A%A1%EF%B8%8F%20Frontend%20Engineer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+    <!-- Light mode -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header&text=Pelin%20%C3%96ks%C3%BCz%20%E2%9A%A1%EF%B8%8F%20Frontend%20Engineer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+         alt="Header banner: Pelin Öksüz — Frontend Engineer" />
+  </picture>
 </p>
 
+<!-- VALUE PROP (typing) -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Pelin+%F0%9F%91%8B;Frontend+Engineer+%7C+Angular+%26+RxJS;Performance+Optimization"
-    alt="Typing animation" />
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=900&center=true&vCenter=true&width=720&lines=I+build+fast%2C+elegant%2C+explainable+frontends.;Angular+%2B+RxJS+%7C+Performance+Optimization+%7C+a11y"
+    alt="Typing line: I build fast, elegant, explainable frontends." />
 </p>
 
+<!-- CTAS -->
 <p align="center">
-  <a href="https://pelin.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Website-0EA5E9?style=for-the-badge&logoColor=white">
+  <a href="https://pelin.dev" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Website-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
-  <a href="https://www.linkedin.com/in/pelin-oksuz" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/pelin-oksuz" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:pelin.oksuz.contact@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/✉️_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:pelin.oksuz.contact@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -36,8 +46,3 @@ _Local time:_ **13 October 2025, 11:56 (TRT)**
 - ⚡ Real-time dashboards (virtual scroll, signals)
 - 🧪 Performance: TBT↓ CLS↓, Lighthouse 95+
 - 🎓 Talks & papers on Angular performance & XAI
-
----
-
-#### Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=pelinoksuz&show_icons=true&hide_title=true)
