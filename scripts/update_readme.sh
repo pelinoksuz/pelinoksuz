@@ -25,14 +25,6 @@ fi
 DYNAMIC_BLOCK=$(cat <<EOF
 $GREETING  
 _Local time:_ **$DATE_HUMAN (TRT)**
-
-\`\`\`diff
-+ Building fast, reliable, and beautiful frontends ✨
-\`\`\`
-
-![Pelin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pelinoksuz&show_icons=true&theme=$THEME)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelinoksuz&layout=compact&theme=$THEME)
-EOF
 )
 
 READ_ME="README.md"
