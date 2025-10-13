@@ -8,10 +8,17 @@
 
 
 <p align="center">
-  <a href="https://pelin.dev">Website</a> •
-  <a href="https://www.linkedin.com/in/pelinoksuz">LinkedIn</a> •
-  <a href="mailto:hello@pelin.dev">Email</a>
+  <a href="https://pelin.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Website-0EA5E9?style=for-the-badge&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/pelin-oksuz" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:pelin.oksuz.contact@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/✉️_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
+
 
 ---
 
