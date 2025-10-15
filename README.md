@@ -14,7 +14,7 @@
 <!-- VALUE PROP (typing) -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1800&pause=700&color=7C3AED&center=true&vCenter=true&width=720&lines=Angular;RxJS;Virtual+Scrolling;Web+Performance;Responsive+Design;Accessibility+(a11y);Figma;Design+Systems;Signals;Grad-CAM;Explainable+AI;Clean+Architecture"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1800&pause=700&color=7C3AED&center=true&vCenter=true&width=720&lines=Angular;RxJS;Web+Performance;Responsive+Design;Accessibility+(a11y);Figma;Explainable+AI;Clean+Architecture"
     alt="Typing introduction" />
 </p>
 
