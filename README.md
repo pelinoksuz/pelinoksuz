@@ -23,8 +23,6 @@
   <a href="https://www.linkedin.com/in/pelin-oksuz" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="pelin-oksuz" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/pelin-oksuz/tr?trk=profile-badge">Pelin Öksüz</a></div>
-              
   <a href="mailto:pelin.oksuz.contact@gmail.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
