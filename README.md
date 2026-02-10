@@ -3,6 +3,7 @@
     <source media="(prefers-color-scheme: dark)"
       srcset="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header&text=Pelin%20%C3%96ks%C3%BCz%20%E2%9A%A1%EF%B8%8F%20Full-Stack%20Engineer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
     <!-- Light mode -->
+  
     <img
       src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header&text=Pelin%20%C3%96ks%C3%BCz%20%E2%9A%A1%EF%B8%8F%20Full-Stack%20Engineer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
       alt="Header banner: Pelin Öksüz — Full-Stack Engineer" />
