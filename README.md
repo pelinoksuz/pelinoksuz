@@ -16,7 +16,6 @@
     alt="Typing introduction" />
 </p>
 
-@@ -34,16 +34,16 @@
 <h3 align="center">👩🏻‍💻 About Me</h3>
 
 <p align="center">
