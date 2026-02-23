@@ -44,10 +44,7 @@ Strong focus on <strong>Frontend Architecture</strong> with deep performance opt
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img height="165em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pelinoksuz&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pelinoksuz&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pelinoksuz&theme=tokyonight" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2"/>
