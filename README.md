@@ -1,33 +1,30 @@
-<!-- ===================== HEADER ===================== -->
-<p align="center">
-  <picture>
-    <!-- Dark Mode -->
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,23,25&height=150&section=header&text=Pelin%20%C3%96ks%C3%BCz&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
-    
-    <!-- Light Mode -->
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,3,30&height=150&section=header&text=Pelin%20%C3%96ks%C3%BCz&fontSize=38&fontColor=111111&animation=fadeIn&fontAlignY=45" />
-    
-    <img
-      src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Pelin%20%C3%96ks%C3%BCz&fontSize=38&animation=fadeIn&fontAlignY=45"
-      alt="Pelin Öksüz Header" />
-  </picture>
-</p>
+<!-- ===================== MODERN MINIMAL HERO ===================== -->
 
-<!-- Ultra thin accent line -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&width=180&section=header" />
-</p>
+<div align="center">
 
-<br/>
+<!-- Subtle dark block -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=rect&color=0D0D12&height=160&section=header"
+  width="100%" 
+/>
 
-<!-- ===================== VALUE PROP ===================== -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3200&pause=2500&color=7C3AED&center=true&vCenter=true&width=650&lines=Angular;RxJS;TypeScript;System+Design;Web+Performance;Clean+Architecture;Explainable+AI"
-    alt="Typing introduction" />
-</p>
+<h1 style="margin-top:-115px; font-weight:600; letter-spacing:0.5px;">
+  Pelin Öksüz
+</h1>
+
+<!-- Thin accent -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2&width=160&section=header"
+/>
+
+<br/><br/>
+
+<!-- Slow, subtle typing -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3400&pause=2800&color=7C3AED&center=true&vCenter=true&width=600&lines=Angular;System+Design;Web+Performance;Clean+Architecture;Explainable+AI"
+/>
+
+</div>
 
 <br/><br/>
 
