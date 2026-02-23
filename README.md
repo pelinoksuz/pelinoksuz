@@ -17,21 +17,15 @@
     alt="Typing introduction" />
 </p>
 
-<h3 align="center">👩🏻‍💻 About Me</h3>
-
-<p align="center">
-  Senior Full-Stack Engineer @ <strong>AVL</strong> — building scalable, high-performance web applications end-to-end.<br/>
-  Strong focus on <strong>Frontend Architecture</strong> with hands-on experience in <strong>Backend APIs</strong> and system integration.<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pelinoksuz&theme=react-dark&hide_border=true" />
-<div style="border: 1px solid transparent;
-background: linear-gradient(#0f0f0f,#0f0f0f) padding-box,
-linear-gradient(90deg,#7C3AED,#22D3EE) border-box;
-border-radius:12px; padding:20px;">
-...
+<div style="border: 1px solid transparent; background: linear-gradient(#0f0f0f,#0f0f0f) padding-box,linear-gradient(90deg,#7C3AED,#22D3EE) border-box;border-radius:12px; padding:20px;">
+ <h3 align="center">👩🏻‍💻 About Me</h3>
+ 
+ <p align="center">
+   Senior Full-Stack Engineer @ <strong>AVL</strong> — building scalable, high-performance web applications end-to-end.<br/>
+   Strong focus on <strong>Frontend Architecture</strong> with hands-on experience in <strong>Backend APIs</strong> and system integration.<br/><br/>
 </div>
 
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pelinoksuz&theme=react-dark&hide_border=true" />
   🎓 MSc in <strong>Computer Science</strong> — research focus on <em>Explainable AI</em> (Grad-CAM, Faster R-CNN).<br/><br/>
 
   💡 Frontend: <em>Angular, RxJS, Signals, Performance Optimization, Design Systems</em><br/>
