@@ -24,7 +24,12 @@
   Strong focus on <strong>Frontend Architecture</strong> with hands-on experience in <strong>Backend APIs</strong> and system integration.<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pelinoksuz&theme=react-dark&hide_border=true" />
-
+<div style="border: 1px solid transparent;
+background: linear-gradient(#0f0f0f,#0f0f0f) padding-box,
+linear-gradient(90deg,#7C3AED,#22D3EE) border-box;
+border-radius:12px; padding:20px;">
+...
+</div>
 
 
   🎓 MSc in <strong>Computer Science</strong> — research focus on <em>Explainable AI</em> (Grad-CAM, Faster R-CNN).<br/><br/>
