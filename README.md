@@ -23,7 +23,7 @@
   Senior Full-Stack Engineer @ <strong>AVL</strong> — building scalable, high-performance web applications end-to-end.<br/>
   Strong focus on <strong>Frontend Architecture</strong> with hands-on experience in <strong>Backend APIs</strong> and system integration.<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pelinoksuz&theme=react-dark&hide_border=true" />
 
 
 
